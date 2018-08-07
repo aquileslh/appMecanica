@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "masterOne",
-    "description": "Project for bussines of mechanics.",
-    "slug": "masterOne",
+    "name": "mastersOne",
+    "description": "A very interesting project.",
+    "slug": "mastersOne",
     "privacy": "public",
     "sdkVersion": "29.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/evacuator512.png",
     "splash": {
       "image": "./assets/images/evacuator512.png",
       "resizeMode": "contain",
